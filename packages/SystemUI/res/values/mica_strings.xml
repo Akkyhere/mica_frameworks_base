@@ -33,4 +33,8 @@
     <string name="smartspace_icu_date_pattern">EEEMMMd</string>
     <string name="smartspace_role_desc">View</string>
 
+    <!-- Screen record -->
+    <string name="screenrecord_skip_time_label">Skip timer</string>
+    <string name="screenrecord_skip_time_summary">Remove the 3 second wait</string>
+
 </resources>
